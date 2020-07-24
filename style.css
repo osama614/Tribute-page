@@ -1,9 +1,38 @@
-#image{
-    margin: auto;
-    width: 70%;
+body{
+    background-color: #8c8c8c;
+}
+#main{
+    
+}
+#title {
+    margin: 40px auto;
+    text-align: center;
+    height: 80px;
+    padding-top: 20px;
+    background-color:  #f2f2f2 ;
+}
+#img-div{
+    margin: 30px auto;
+    width: 100%;
+    background-color: #f2f2f2 ;
 }
 
-#image img{
+#image{
+    margin: 20px auto;
+    max-width: 70%;
+    display: block;
+
+}
+span{
+    font-size: 20px;
+    font-weight: bold;
+}
+#tribute-info {
     margin: auto;
-    width: 100%;
+}
+#tribute-info li{
+    margin: auto;
+}
+p{
+    margin: auto;
 }
