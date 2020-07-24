@@ -1,0 +1,9 @@
+#image{
+    margin: auto;
+    width: 70%;
+}
+
+#image img{
+    margin: auto;
+    width: 100%;
+}
